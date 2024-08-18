@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.336f9dab.css",
+    "main.js": "./static/js/main.f2658fc4.js",
+    "static/js/213.48ab17ed.chunk.js": "./static/js/213.48ab17ed.chunk.js",
+    "static/js/732.c974c375.chunk.js": "./static/js/732.c974c375.chunk.js",
+    "static/media/moodleLogo.png": "./static/media/moodleLogo.685b02a701cde4a599fc.png",
+    "index.html": "./index.html",
+    "main.336f9dab.css.map": "./static/css/main.336f9dab.css.map",
+    "main.f2658fc4.js.map": "./static/js/main.f2658fc4.js.map",
+    "213.48ab17ed.chunk.js.map": "./static/js/213.48ab17ed.chunk.js.map",
+    "732.c974c375.chunk.js.map": "./static/js/732.c974c375.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.336f9dab.css",
+    "static/js/main.f2658fc4.js"
+  ]
+}
