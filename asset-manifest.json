@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.5fe23c18.css",
-    "main.js": "./static/js/main.36cdebcc.js",
+    "main.css": "./static/css/main.5671c65b.css",
+    "main.js": "./static/js/main.bd5f7d24.js",
     "static/js/239.8e095eb4.chunk.js": "./static/js/239.8e095eb4.chunk.js",
-    "static/js/213.3d5862fa.chunk.js": "./static/js/213.3d5862fa.chunk.js",
-    "static/js/732.16cd2b93.chunk.js": "./static/js/732.16cd2b93.chunk.js",
+    "static/js/213.3e30ec7a.chunk.js": "./static/js/213.3e30ec7a.chunk.js",
+    "static/js/455.d0c88790.chunk.js": "./static/js/455.d0c88790.chunk.js",
     "static/media/moodleLogo.png": "./static/media/moodleLogo.685b02a701cde4a599fc.png",
     "index.html": "./index.html",
-    "main.5fe23c18.css.map": "./static/css/main.5fe23c18.css.map",
-    "main.36cdebcc.js.map": "./static/js/main.36cdebcc.js.map",
+    "main.5671c65b.css.map": "./static/css/main.5671c65b.css.map",
+    "main.bd5f7d24.js.map": "./static/js/main.bd5f7d24.js.map",
     "239.8e095eb4.chunk.js.map": "./static/js/239.8e095eb4.chunk.js.map",
-    "213.3d5862fa.chunk.js.map": "./static/js/213.3d5862fa.chunk.js.map",
-    "732.16cd2b93.chunk.js.map": "./static/js/732.16cd2b93.chunk.js.map"
+    "213.3e30ec7a.chunk.js.map": "./static/js/213.3e30ec7a.chunk.js.map",
+    "455.d0c88790.chunk.js.map": "./static/js/455.d0c88790.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fe23c18.css",
-    "static/js/main.36cdebcc.js"
+    "static/css/main.5671c65b.css",
+    "static/js/main.bd5f7d24.js"
   ]
 }

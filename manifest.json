@@ -1,15 +1,17 @@
 {
-  "short_name": "TaskyWave",
   "name": "TaskyWave",
+  "short_name": "TaskyWave",
+  "description": "Application de gestion des tâches.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4caf50",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "logo.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "/logo.ico",
+      "sizes": "230x230",
+      "type": "image/png"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
